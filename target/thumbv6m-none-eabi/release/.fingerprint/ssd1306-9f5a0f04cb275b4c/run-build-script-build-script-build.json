@@ -1,0 +1,1 @@
+{"rustc":13661887733997846063,"features":"","target":0,"profile":0,"path":0,"deps":[[7540694437732671540,"build_script_build",false,1331951154631015057]],"local":[{"RerunIfChanged":{"output":"thumbv6m-none-eabi/release/build/ssd1306-9f5a0f04cb275b4c/output","paths":["build.rs","memory.x"]}}],"rustflags":[],"metadata":0,"config":0}

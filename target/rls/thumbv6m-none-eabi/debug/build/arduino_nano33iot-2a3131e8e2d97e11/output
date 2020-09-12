@@ -1,0 +1,3 @@
+cargo:rustc-link-search=/media/nebelgrau/flexdrive/dtscnc/rust/SAMD21/nano33iot_oledtest/target/rls/thumbv6m-none-eabi/debug/build/arduino_nano33iot-2a3131e8e2d97e11/out
+cargo:rerun-if-changed=memory.x
+cargo:rerun-if-changed=build.rs
