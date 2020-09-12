@@ -1,2 +1,0 @@
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/media/nebelgrau/flexdrive/dtscnc/rust/SAMD21/nano33iot_oledtest/target/thumbv6m-none-eabi/release/build/typenum-f91c481d80838a87/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/media/nebelgrau/flexdrive/dtscnc/rust/SAMD21/nano33iot_oledtest/target/thumbv6m-none-eabi/release/build/typenum-f91c481d80838a87/out/op.rs
